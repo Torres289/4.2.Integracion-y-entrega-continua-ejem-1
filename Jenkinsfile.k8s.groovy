@@ -10,7 +10,7 @@ podTemplate(containers: [
           sh 'mvn test'
         }
         finally {
-          junit '**/target/surefire-reports/*.xml'
+          junitPublisher '**/target/surefire-reports/*.xml'
         }
       }
     }
