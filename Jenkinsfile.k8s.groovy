@@ -4,6 +4,7 @@ podTemplate(containers: [
 
   node(POD_LABEL) {
     stage('Test') {
+      git 'https://github.com/gortazar/4.2.Integracion-y-entrega-continua-ejem-1.git'
       container('maven') {
         sh 'mvn test'
       }
