@@ -6,7 +6,12 @@ podTemplate(containers: [
     stage('Test') {
       git 'https://github.com/gortazar/4.2.Integracion-y-entrega-continua-ejem-1.git'
       container('maven') {
-        sh 'mvn test'
+        try {
+          sh 'mvn test'
+        }
+        finally {
+          junit '**/target/surefire-reports/*.xml'
+        }
       }
     }
   }
