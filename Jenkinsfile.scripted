@@ -1,0 +1,18 @@
+node {
+
+    def mvnHome
+
+    stage('Preparation') {
+        mvnHome = tool 'MAVEN3'
+    }
+
+    stage('Test') {
+        try {
+            sh "'${mvnHome}/bin/mvn' test"
+        }
+        finally {
+            junit '**/target/surefire-reports/*.xml'
+        }
+        
+    }
+}
