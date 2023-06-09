@@ -3,9 +3,6 @@ pipeline {
         docker { image 'maven:3.6.3' }
     }
 
-    tools {
-        maven 'MAVEN3'
-    }
     stages {
         stage('Test') {
             steps {
