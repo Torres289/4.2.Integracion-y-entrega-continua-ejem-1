@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Torres289/4.2.Integracion-y-entrega-continua-ejem-1",
+  "pipelineDirectory": "4.2.Integracion-y-entrega-continua-ejem-1",
+  "workspaceDirectory": "4.2.Integracion-y-entrega-continua-ejem-1\\4.2.Integracion-y-entrega-continua-ejem-1",
+  "repositories": {
+    "Torres289/4.2.Integracion-y-entrega-continua-ejem-1": {
+      "repositoryPath": "4.2.Integracion-y-entrega-continua-ejem-1\\4.2.Integracion-y-entrega-continua-ejem-1",
+      "lastRunOn": "11/14/2023 20:21:04 +01:00"
+    }
+  },
+  "lastRunOn": "11/14/2023 20:21:04 +01:00"
+}

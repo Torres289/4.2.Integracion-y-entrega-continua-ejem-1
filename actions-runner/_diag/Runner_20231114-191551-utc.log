@@ -1,0 +1,176 @@
+[2023-11-14 19:15:51Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.runner'
+[2023-11-14 19:15:51Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-11-14 19:15:51Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2023-11-14 19:15:51Z INFO Listener] Version: 2.311.0
+[2023-11-14 19:15:51Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-11-14 19:15:51Z INFO Listener] Culture: es-ES
+[2023-11-14 19:15:51Z INFO Listener] UI Culture: es-ES
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO Listener] Validating directory permissions for: 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO CommandLineParser] Parse
+[2023-11-14 19:15:51Z INFO CommandLineParser] Parsing 1 args
+[2023-11-14 19:15:51Z INFO CommandLineParser] parsing argument
+[2023-11-14 19:15:51Z INFO CommandLineParser] HasArgs: False
+[2023-11-14 19:15:51Z INFO CommandLineParser] Adding Command: run
+[2023-11-14 19:15:51Z INFO Listener] Arguments parsed
+[2023-11-14 19:15:51Z INFO Runner] ExecuteCommand
+[2023-11-14 19:15:51Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin\Runner.Listener.dll
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] binPath: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] RootFolder: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.runner'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.runner
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] CredFilePath: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_migrated'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_migrated
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'Service': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.service'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.service
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'help': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'version': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'check': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Command 'configure': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Command 'remove': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-11-14 19:15:51Z INFO ConfigurationManager] LoadSettings
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured()
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-14 19:15:51Z INFO ConfigurationManager] Is configured: True
+[2023-11-14 19:15:51Z INFO ConfigurationStore] Read setting file: 333 chars
+[2023-11-14 19:15:51Z INFO ConfigurationManager] Settings Loaded
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-11-14 19:15:51Z INFO CommandSettings] Command 'run': 'True'
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured()
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-14 19:15:51Z INFO ConfigurationManager] Is configured: True
+[2023-11-14 19:15:51Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2023-11-14 19:15:51Z INFO Runner] Set runner startup type - Manual
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-14 19:15:51Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-14 19:15:51Z INFO Runner] RunAsync
+[2023-11-14 19:15:51Z INFO ConfigurationManager] LoadSettings
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured()
+[2023-11-14 19:15:51Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-14 19:15:51Z INFO ConfigurationManager] Is configured: True
+[2023-11-14 19:15:51Z INFO ConfigurationManager] Settings Loaded
+[2023-11-14 19:15:51Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "testNov",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/hE67GuUJcqKsYwD3UigFoU7uUXoeMm7fc9jd8uJcMuVDArG8FP/",
+  "GitHubUrl": "https://github.com/Torres289/4.2.Integracion-y-entrega-continua-ejem-1",
+  "WorkFolder": "_work"
+}
+[2023-11-14 19:15:51Z INFO MessageListener] Loading Credentials
+[2023-11-14 19:15:51Z INFO ConfigurationStore] HasCredentials()
+[2023-11-14 19:15:51Z INFO ConfigurationStore] stored True
+[2023-11-14 19:15:51Z INFO CredentialManager] GetCredentialProvider
+[2023-11-14 19:15:51Z INFO CredentialManager] Creating type OAuth
+[2023-11-14 19:15:51Z INFO CredentialManager] Creating credential type: OAuth
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:15:51Z INFO HostContext] Well known directory 'Root': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner'
+[2023-11-14 19:15:51Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_rsaparams'
+[2023-11-14 19:15:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_rsaparams
+[2023-11-14 19:15:51Z INFO MessageListener] Attempt to create session.
+[2023-11-14 19:15:51Z INFO MessageListener] Connecting to the Runner Server...
+[2023-11-14 19:15:51Z INFO RunnerServer] EstablishVssConnection
+[2023-11-14 19:15:51Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-11-14 19:15:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-14 19:15:51Z INFO RunnerServer] EstablishVssConnection
+[2023-11-14 19:15:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-14 19:15:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-14 19:15:51Z INFO RunnerServer] EstablishVssConnection
+[2023-11-14 19:15:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-14 19:15:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-14 19:15:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-14 19:15:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-14 19:15:52Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-14 19:15:52Z INFO MessageListener] VssConnection created
+[2023-11-14 19:15:52Z INFO Terminal] WRITE LINE: 
+[2023-11-14 19:15:52Z INFO Terminal] WRITE LINE: 
+[2023-11-14 19:15:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_rsaparams
+[2023-11-14 19:15:52Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_rsaparams
+[2023-11-14 19:15:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-14 19:15:52Z INFO MessageListener] Session created.
+[2023-11-14 19:15:52Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-11-14 19:15:52Z INFO Terminal] WRITE LINE: 2023-11-14 19:15:52Z: Listening for Jobs
+[2023-11-14 19:15:52Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-11-14 19:21:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\.credentials_rsaparams
+[2023-11-14 19:21:02Z INFO MessageListener] Message '1' received from session '577d341c-bb1f-4167-85f4-46f2d08c19b8'.
+[2023-11-14 19:21:02Z INFO Runner] Received job message of length 24912 from service, with hash '1d87ec95de2b43cf51fc7d06b417a76b77dac10954e43245e8d63757376ae252'
+[2023-11-14 19:21:02Z INFO JobDispatcher] Job request 1 for plan 5fd6c1ba-16d5-4de8-afb2-88d4b4f93c78 job 5264e576-3c6f-51f6-f055-fab409685f20 received.
+[2023-11-14 19:21:02Z INFO JobDispatcher] Pull OrchestrationId 5fd6c1ba-16d5-4de8-afb2-88d4b4f93c78.test.__default from JWT claims
+[2023-11-14 19:21:02Z INFO Terminal] WRITE LINE: 2023-11-14 19:21:02Z: Running job: test
+[2023-11-14 19:21:02Z INFO JobDispatcher] Start renew job request 1 for job 5264e576-3c6f-51f6-f055-fab409685f20.
+[2023-11-14 19:21:03Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:31:03
+[2023-11-14 19:21:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin\Runner.Worker.exe'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2192 2180'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Sergio\TFG\4.2.Integracion-y-entrega-continua-ejem-1\actions-runner\bin'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-14 19:21:03Z INFO ProcessInvokerWrapper] Process started with process id 12304, waiting for process exit.
+[2023-11-14 19:21:03Z INFO JobDispatcher] Send job request message to worker for job 5264e576-3c6f-51f6-f055-fab409685f20.
+[2023-11-14 19:21:03Z INFO ProcessChannel] Sending message of length 24912, with hash '1d87ec95de2b43cf51fc7d06b417a76b77dac10954e43245e8d63757376ae252'
+[2023-11-14 19:21:03Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-14 19:21:03Z INFO JobNotification] Entering StartMonitor
+[2023-11-14 19:22:03Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:32:03
+[2023-11-14 19:23:03Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:33:03
+[2023-11-14 19:24:03Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:34:03
+[2023-11-14 19:25:03Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:35:03
+[2023-11-14 19:26:04Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:36:03
+[2023-11-14 19:27:04Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:37:04
+[2023-11-14 19:28:04Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:38:04
+[2023-11-14 19:29:04Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:39:04
+[2023-11-14 19:30:04Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:40:04
+[2023-11-14 19:31:05Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:41:04
+[2023-11-14 19:32:05Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:42:05
+[2023-11-14 19:33:05Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:43:05
+[2023-11-14 19:34:05Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:44:05
+[2023-11-14 19:35:05Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 14/11/2023 19:45:05
+[2023-11-14 19:35:22Z INFO Terminal] WRITE LINE: Exiting...
+[2023-11-14 19:35:22Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-11-14 19:35:22Z INFO ConfigurationStore] IsServiceConfigured: False
+[2023-11-14 19:35:22Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-11-14 19:35:22Z WARN GitHubActionsService] GET request to https://pipelinesghubeus24.actions.githubusercontent.com/hE67GuUJcqKsYwD3UigFoU7uUXoeMm7fc9jd8uJcMuVDArG8FP/_apis/distributedtask/pools/1/messages?sessionId=577d341c-bb1f-4167-85f4-46f2d08c19b8&lastMessageId=1&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2023-11-14 19:35:22Z INFO MessageListener] Get next message has been cancelled.
+[2023-11-14 19:35:22Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-11-14 19:35:22Z INFO JobDispatcher] Ensure WorkerDispatcher for job 5264e576-3c6f-51f6-f055-fab409685f20 run to finish, cancel any running job.
+[2023-11-14 19:35:22Z INFO JobDispatcher] Send job cancellation message to worker for job 5264e576-3c6f-51f6-f055-fab409685f20.
+[2023-11-14 19:35:22Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2023-11-14 19:35:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-14 19:35:26Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-14 19:35:27Z INFO ProcessInvokerWrapper] Finished process 12304 with exit code 102, and elapsed time 00:14:23.6410187.
+[2023-11-14 19:35:27Z INFO JobDispatcher] finish job request for job 5264e576-3c6f-51f6-f055-fab409685f20 with result: Canceled
+[2023-11-14 19:35:27Z INFO Terminal] WRITE LINE: 2023-11-14 19:35:27Z: Job test completed with result: Canceled
+[2023-11-14 19:35:27Z INFO JobDispatcher] Stop renew job request for job 5264e576-3c6f-51f6-f055-fab409685f20.
+[2023-11-14 19:35:27Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2023-11-14 19:35:27Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-14 19:35:27Z INFO JobNotification] Entering EndMonitor
+[2023-11-14 19:35:27Z INFO Listener] Runner execution been cancelled.
