@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "testNov",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/hE67GuUJcqKsYwD3UigFoU7uUXoeMm7fc9jd8uJcMuVDArG8FP/",
+  "gitHubUrl": "https://github.com/Torres289/4.2.Integracion-y-entrega-continua-ejem-1",
+  "workFolder": "_work"
+}
